@@ -1,3 +1,5 @@
+
+
 let humanAge = document.getElementById('humanAge');
 let dogAge = document.getElementById('dogAge');
 
@@ -18,7 +20,9 @@ function solve() {
     // console.log(earlyYears)
     // console.log(laterYears)
     
-    // This really needs to be explained?
+    // 
+
+    
     let myAgeInDogYears = earlyYears + laterYears;
     dogAge.textContent = Math.floor(myAgeInDogYears);
 }
