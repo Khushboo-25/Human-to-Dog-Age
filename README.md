@@ -4,7 +4,7 @@ A simple web application that calculates a dog's age in dog years based on the p
 
 ## How to Use
 
-1. Open the `index.html` file in a web browser.
+1. Open the `dogage.html` file in a web browser.
 2. Enter a human age in the input field and click "Submit."
 3. The dog's age in dog years is displayed below.
 
