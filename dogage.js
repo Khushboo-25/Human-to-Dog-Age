@@ -5,7 +5,7 @@ let dogAge = document.getElementById('dogAge');
 
 function solve() {
 
-    let myAge = humanAge.value;
+    let myAge = dogAge.value;
 
     // The value saved to this variable will change...
     let earlyYears = 2;
@@ -23,7 +23,7 @@ function solve() {
     // 
 
     
-    let myAgeInDogYears = earlyYears + laterYears;
-    dogAge.textContent = Math.floor(myAgeInDogYears);
+    let dogAgetoHumanYears = earlyYears + laterYears;
+    humanAge.textContent = Math.floor(dogAgetoHumanYears);
 }
 
