@@ -1,4 +1,4 @@
-# Human Age to Dog Age Converter
+#  Dog Age to Human Age Converter
 
 A simple web application that calculates a dog's age in dog years based on the provided human age. The project is built using HTML, JavaScript, and includes Bootstrap for styling.
 
